@@ -125,4 +125,7 @@ session reports its end once, through `on_closed(CloseReason)` (D14).
 
 ## Licence
 
-GPL-3.0-or-later. See [`LICENSE`](LICENSE).
+Dual-licensed under your choice of
+[GPL-3.0-or-later](LICENSE-GPL-3.0) or the
+[PolyForm Noncommercial License 1.0.0](LICENSE-PolyForm-Noncommercial-1.0.0).
+See [`LICENSE`](LICENSE).
